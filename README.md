@@ -21,4 +21,4 @@
 
 
 [YOUTUBE](https://www.youtube.com/channel/zrawh) <br>
-[DOWNLOAD] (https://github.com/zrawhgt/zdeface/archive/master.zip) <br>
+[DOWNLOAD](https://github.com/zrawhgt/zdeface/archive/master.zip) <br>
