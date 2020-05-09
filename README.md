@@ -19,6 +19,7 @@
 
 **NOTE:** before using this tool, put your deface script with the zdeface.py file, edit the file 'target.txt' and enter the target url
 
-
+**SUBSCRIBE**
 [YOUTUBE](https://www.youtube.com/channel/zrawh) <br>
+**DOWNLOAD THIS REPOSITORY**
 [DOWNLOAD](https://github.com/zrawhgt/zdeface/archive/master.zip) <br>
