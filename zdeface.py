@@ -7,33 +7,33 @@ try:
    import sys
 except ImportError:
    exit("\033[90mZrawhBOT: \033[1;31minstall requests and try again ...")
-
-os.system("clear")
+os.system('clear')
+os.system('xdg-open http://youtube.com/c/zrawh')
 banner = """
 \033[1;31m\033[1;37m 
 
-███████╗██████╗  █████╗ ██╗    ██╗██╗  ██╗ Author : Zrawh
-╚══███╔╝██╔══██╗██╔══██╗██║    ██║██║  ██║ Date   : 2020-5-9
-  ███╔╝ ██████╔╝███████║██║ █╗ ██║███████║ Tools  : Zdeface v1.0
- ███╔╝  ██╔══██╗██╔══██║██║███╗██║██╔══██║ Github : zrawhgt
-███████╗██║  ██║██║  ██║╚███╔███╔╝██║  ██║ YouTube: Zrawh
-\033[1;31m╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝
+███████╗██████╗ ███████╗███████╗ █████╗  ██████╗███████╗ Author : Zrawh
+╚══███╔╝██╔══██╗██╔════╝██╔════╝██╔══██╗██╔════╝██╔════╝ Date   : 2020-5-9
+  ███╔╝ ██║  ██║█████╗  █████╗  ███████║██║     █████╗   Tools  : Zdeface v1.0
+ ███╔╝  ██║  ██║██╔══╝  ██╔══╝  ██╔══██║██║     ██╔══╝   Github : zrawhgt
+███████╗██████╔╝███████╗██║     ██║  ██║╚██████╗███████╗ YouTube: Zrawh
+\033[1;31m╚══════╝╚═════╝ ╚══════╝╚═╝     ╚═╝  ╚═╝ ╚═════╝╚══════╝
 """
 
 b = '\033[31m'
 h = '\033[32m'
 m = '\033[00m'
 
-def x(tetew):
+def x(anjay):
    ipt = ''
    if sys.version_info.major > 2:
-      ipt = input(tetew)
+      ipt = input(anjay)
    else:
-      ipt = raw_input(tetew)
+      ipt = raw_input(anjay)
    
    return str(ipt)
 
-def aox(script,target_file="target.txt"):
+def zdef(script,target_file="target.txt"):
    op = open(script,"r").read()
    with open(target_file, "r") as target:
       target = target.readlines()
@@ -68,7 +68,7 @@ def main(__bn__):
       except KeyboardInterrupt:
          print; exit()
 
-   aox(a)
+   zdef(a)
 
 if __name__ == "__main__":
     main(banner)
