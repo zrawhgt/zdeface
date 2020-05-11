@@ -21,5 +21,5 @@
 
 **SUBSCRIBE**
 [YOUTUBE](https://www.youtube.com/channel/zrawh) <br>
-**DOWNLOAD THIS REPOSITE**
+**DOWNLOAD THIS REPOSITORIES**
 [DOWNLOAD](https://github.com/zrawhgt/zdeface/archive/master.zip) <br>
