@@ -2,10 +2,10 @@
 
 **Termux:**
 * `pkg install python2`
-* `pip2 install requests`
 * `pkg install git`
 * `git clone https://github.com/zrawhgt/zdeface`
 * `cd zdeface`
+* `pip2 install requests`
 * `python2 zdeface.py`
 
 **Linux:**
